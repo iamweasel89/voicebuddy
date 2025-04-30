@@ -1,1 +1,1 @@
-# пример теста
+# placeholder for tests
