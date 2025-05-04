@@ -1,3 +1,8 @@
+**Запуск сервера вручную:**
+
+```bash
+cd ~/voicebuddy && source ~/vosk-env/bin/activate && python3 scripts/server.py
+```
 # Черновые инструкции и хронология
 
 ## Установка VOSK-сервера (черновик)
